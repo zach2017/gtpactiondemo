@@ -1,0 +1,35 @@
+Certainly! Here's a simple privacy policy that clearly states that no personal data is collected, shared, or used by your company:
+
+---
+
+# Privacy Policy
+
+## Introduction
+
+Welcome to our website! We respect your privacy and are committed to protecting any information you provide. This Privacy Policy explains how we handle data, even though we do not collect any personal information.
+
+## Data Collection
+
+Our website does **not** collect any personal data from its users. We do **not** track your IP address, geolocation, or any other identifiable information.
+
+## Data Sharing
+
+We **do not** share any user data with third parties. Your privacy is our priority.
+
+## Exceptions
+
+While we strive to maintain a strict no-data-collection policy, there might be exceptions for legal, safety, or security reasons. However, rest assured that such instances are rare and handled with utmost care.
+
+## Contact Us
+
+If you have any questions or concerns regarding our privacy practices, feel free to contact us at privacy@example.com.
+
+---
+
+By providing this transparent and concise privacy policy, we aim to build trust with our users. Remember to customize it to fit your specific business context. 🌐🔒
+
+Source: Conversation with Bing, 11/24/2023
+(1) A Privacy Policy if No Personal Data is Collected. https://www.freeprivacypolicy.com/blog/privacy-policy-no-personal-data-collected/.
+(2) Privacy | Zoom. https://explore.zoom.us/en/privacy/.
+(3) Creating and Displaying a "Do Not Sell My Personal Information" Page. https://www.privacypolicies.com/blog/create-display-do-not-sell-my-personal-information-page/.
+(4) Sample Privacy Policy Template - Privacy Policies. https://www.privacypolicies.com/blog/privacy-policy-template/.

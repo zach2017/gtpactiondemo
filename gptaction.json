@@ -1,0 +1,25 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Lab Events",
+    "description": "This will return the event scheduled at the lab on dexter",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://beba-216-66-36-36.ngrok-free.app/"
+    }
+  ],
+  "paths": {
+    "/location": {
+      "get": {
+        "description": "Get current events",
+        "operationId": "GetCurrentEvents",
+        "parameters": [],
+        "deprecated": false
+      }
+    },
+  "components": {
+    "schemas": {}
+  }
+}
